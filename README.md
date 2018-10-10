@@ -1,2 +1,0 @@
-# Newbie
-Belajar HTML pemula
